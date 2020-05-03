@@ -1,7 +1,7 @@
 # ARTableTennis
 
-![Watch the video](https://img.youtube.com/vi/lqUcLbSprxQ/maxresdefault.jpg)
-Watch the video 👆🏻
+[![Watch the video](https://img.youtube.com/vi/lqUcLbSprxQ/maxresdefault.jpg)](https://youtu.be/lqUcLbSprxQ)
+[Watch the video👆🏻](https://youtu.be/lqUcLbSprxQ)
 
 
 ## Unity Packages :
