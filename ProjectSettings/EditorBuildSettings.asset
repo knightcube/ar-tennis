@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ARScene.unity
+    guid: e88b5c043f21546d798bd9aa05041648
+  - enabled: 0
+    path: Assets/Scenes/Cubes.unity
+    guid: b280de7e7bdb5476c95f5e15d8138698
+  - enabled: 1
+    path: Assets/Scenes/ARTableTennis.unity
+    guid: 96c846baf6f53407cb79647ea2f00679
+  m_configObjects: {}
